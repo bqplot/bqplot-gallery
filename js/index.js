@@ -18,7 +18,8 @@ $(document).ready(function() {
     var evtSource = new EventSource(buildUrl);
     evtSource.onmessage = function(event) {
       var data = JSON.parse(event.data);
-      $('#loader_text').html(data.phase + ': ' + data.message);
+      $('#loader_text').html(data.phase);
+      console.log(data.message);
       if (data.phase === 'ready') {
         evtSource.close();
         var redirectUrl = data.url;
