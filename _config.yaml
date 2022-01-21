@@ -1,3 +1,2 @@
 binderhub:
   host: https://mybinder.org
-baseurl: bqplot-gallery
