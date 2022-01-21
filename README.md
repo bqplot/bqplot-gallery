@@ -10,7 +10,7 @@ View the gallery at [https://bqplot.github.io/bqplot-gallery](https://bqplot.git
 ## Contributing new examples
 
 1. Clone this repository
-2. Add your notebook to [the notebooks directory](https://github.com/bqplot/bqplot-gallery/tree/main/notebooks.
+2. Add your notebook to [the notebooks directory](https://github.com/bqplot/bqplot-gallery/tree/main/notebooks).
 3. Add a small preview of your visualization under [the imgs directory](https://github.com/bqplot/bqplot-gallery/tree/main/imgs).
 4. Add an entry for your Notebook in [the `gallery.yaml` file](https://github.com/bqplot/bqplot-gallery/blob/main/_data/gallery.yaml) with a nice title and a description.
 5. Create a PR to https://github.com/bqplot/bqplot-gallery
