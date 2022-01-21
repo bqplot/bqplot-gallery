@@ -2,8 +2,7 @@
 
 ![bqplot-logo](./bqplot-logo.svg)
 
-This is a gallery of [bqplot](https://github.com/bqplot/bqplot)
-examples.
+This is a gallery of [bqplot](https://github.com/bqplot/bqplot) examples.
 
 View the gallery at [https://bqplot.github.io/bqplot-gallery](https://bqplot.github.io/bqplot-gallery).
 
