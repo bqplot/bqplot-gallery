@@ -5,5 +5,5 @@
 
 - title: Gradient Descent
   description: Gradient Descent computation
-  url: voila/render/notebooks/gaussian_descent.ipynb
-  image_url: imgs/gaussian_descent.png
+  url: voila/render/notebooks/gradient_descent.ipynb
+  image_url: imgs/gradient_descent.png
