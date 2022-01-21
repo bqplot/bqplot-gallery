@@ -1,5 +1,5 @@
-- title: Multi-variate Gaussian Distribution
-  description: Multi-variate Gaussian Distribution
+- title: Gaussian Process Regression
+  description: Gaussian Process Regression
   url: notebooks/gaussian_process_regression.ipynb
   image_url: imgs/gaussian_process_regression.svg
 
