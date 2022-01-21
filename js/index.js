@@ -14,7 +14,7 @@ $(document).ready(function() {
 
     $('#loader_text').html('Launching ' + name);
 
-    var buildUrl = BUILD_ENDPOINT + '/bqplot/bqplot-gallery/' + ref + '?urlpath=' + url;
+    var buildUrl = BUILD_ENDPOINT + '/bqplot/bqplot-gallery/' + ref + '?urlpath=voila/render/' + url;
     var evtSource = new EventSource(buildUrl);
     evtSource.onmessage = function(event) {
       var data = JSON.parse(event.data);
