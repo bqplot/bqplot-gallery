@@ -4,7 +4,7 @@ $(document).ready(function() {
   $('.launch-item').click(function(event) {
     var name = $(event.currentTarget).data('example-name');
     var url = $(event.currentTarget).data('example-url');
-    var ref = 'master';
+    var ref = 'main';
 
     $('#loading_modal').modal({
       backdrop: 'static',
