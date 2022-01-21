@@ -98,3 +98,10 @@
 .bqplot-spinner-color2 {
   fill: #f8e14b;
 }
+
+.footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
