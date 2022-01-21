@@ -1,4 +1,9 @@
 - title: Multi-variate Gaussian Distribution
   description: Multi-variate Gaussian Distribution
   url: voila/render/notebooks/gaussian_process_regression.ipynb
-  image_url: https://i.imgur.com/IeG75O3.png
+  image_url: imgs/gaussian_process_regression.png
+
+- title: Gradient Descent
+  description: Gradient Descent computation
+  url: voila/render/notebooks/gaussian_descent.ipynb
+  image_url: imgs/gaussian_descent.png
