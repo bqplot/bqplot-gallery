@@ -23,7 +23,7 @@ $(document).ready(function() {
         evtSource.close();
         var redirectUrl = data.url;
         var token = data.token;
-        var redirect = redirectUrl + url + '?token=' + token;
+        var redirect = redirectUrl + 'voila/render' + url + '?token=' + token;
         $('#loader_text').html('Launching');
         window.location.href = redirect;
       }
