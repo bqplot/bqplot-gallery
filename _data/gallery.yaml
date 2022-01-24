@@ -6,7 +6,7 @@
     #   url: notebooks/mobile_patent_suits.ipynb
     #   image_url: imgs/mobile_patent_suits.svg
 
-    - title: Logs analytics
+    - title: Logs Analytics
       description:
       url: notebooks/logs_analytics/logs_analytics.ipynb
       image_url: imgs/logs_analytics.png
@@ -38,7 +38,19 @@
       url: notebooks/gradient_descent.ipynb
       image_url: imgs/gradient_descent.svg
 
-    - title: K-means clustering
+    - title: K-means Clustering
       description:
       url: notebooks/kmeans_clustering.ipynb
       image_url: imgs/kmeans_clustering.svg
+
+- section: Finance
+  items:
+    - title: US Equity Market Performance
+      description:
+      url: notebooks/spx_timeseries/spx_timeseries.ipynb
+      image_url: imgs/spx_timeseries.svg
+
+    - title: Yield Curve PCA
+      description:
+      url: notebooks/yc_pca/yield_curve_pca.ipynb
+      image_url: imgs/yield_curve_pca.png

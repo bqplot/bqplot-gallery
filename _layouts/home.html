@@ -4,7 +4,7 @@ title: bqplot gallery
 ---
 
 {% for section in site.data.gallery %}
-  <h2>{{ section.section }}</h2>
+  <h2 style="color: orange">{{ section.section }}</h2>
   <div class="row no-gutters">
     {% for example in section.items %}
       {% include gallery_item.html example=example %}
