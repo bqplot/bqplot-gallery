@@ -1,3 +1,8 @@
+- title: Datasaurus
+  description:
+  url: notebooks/datasaurus/datasaurus.ipynb
+  image_url: imgs/datasaurus.png
+
 - title: Gaussian Process Regression
   description: Gaussian Process Regression
   url: notebooks/gaussian_process_regression.ipynb
@@ -7,3 +12,8 @@
   description: Gradient Descent computation
   url: notebooks/gradient_descent.ipynb
   image_url: imgs/gradient_descent.svg
+
+- title: K-means clustering
+  description:
+  url: notebooks/kmeans_clustering.ipynb
+  image_url: imgs/kmeans_clustering.svg
