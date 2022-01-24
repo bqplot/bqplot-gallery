@@ -4,7 +4,6 @@ channels:
 dependencies:
   - bqplot
   - voila
-  - voila-retro
   - scikit-learn
   - scipy
   - numpy
