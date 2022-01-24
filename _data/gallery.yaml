@@ -7,12 +7,12 @@
     #   image_url: imgs/mobile_patent_suits.svg
 
     - title: Logs Analytics
-      description:
+      description: Visual Analytics Of Server Logs
       url: notebooks/logs_analytics/logs_analytics.ipynb
       image_url: imgs/logs_analytics.png
 
     - title: Wealth Of Nations
-      description: Bubble chart
+      description: Bubble Chart
       url: notebooks/wealth_of_nations/bubble_chart.ipynb
       image_url: imgs/wealth_bubble.svg
 
@@ -34,23 +34,23 @@
       image_url: imgs/gaussian_process_regression.svg
 
     - title: Gradient Descent
-      description: Gradient Descent computation
+      description: Gradient Descent Algorithm
       url: notebooks/gradient_descent.ipynb
       image_url: imgs/gradient_descent.svg
 
     - title: K-means Clustering
-      description:
+      description: K-Means Algorithm
       url: notebooks/kmeans_clustering.ipynb
       image_url: imgs/kmeans_clustering.svg
 
 - section: Finance
   items:
-    - title: US Equity Market Performance
-      description:
+    - title: S&P 500 Index Trends
+      description: Performance Of S&P 500 Index Timeseries
       url: notebooks/spx_timeseries/spx_timeseries.ipynb
       image_url: imgs/spx_timeseries.svg
 
     - title: Yield Curve PCA
-      description:
+      description: PCA On U.S. Treasury Yield Curves
       url: notebooks/yc_pca/yield_curve_pca.ipynb
       image_url: imgs/yield_curve_pca.png
