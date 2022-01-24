@@ -1,6 +1,7 @@
 {
     "VoilaConfiguration": {
         "enable_nbextensions": true,
-        "template": "retro"
+        "template": "retro",
+        "theme": "dark"
     }
 }

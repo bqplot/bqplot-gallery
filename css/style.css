@@ -1,8 +1,12 @@
 /* Main page areas */
 
+body {
+  background: black;
+}
+
 .bqplot-white {
-  background: white;
-  color: #222;
+  background: black;
+  color: white;
   padding: 20px;
 }
 
@@ -15,7 +19,7 @@
 }
 
 .bqplot-blue {
-  background: #030303;
+  background: #252525;
   color: white;
   padding: 20px;
 }
@@ -40,18 +44,19 @@
   height: 100%;
   box-shadow: none;
   user-select: none;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  border: 2px solid #252525;
   border-radius: 0.25rem;
 }
 
 .gallery-item:hover {
-  box-shadow: 4px 4px 12px #aaa;
+  box-shadow: 4px 4px 12px #252525;
   cursor: pointer;
+  transition: box-shadow 0.3s ease-in-out;
 }
 
 .modal-content {
   border-radius: 0px;
-  box-shadow: 0 0 20px 8px rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 20px 8px #252525;
 }
 
 .modal-backdrop.show {
