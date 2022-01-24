@@ -112,3 +112,8 @@ body {
   bottom: 0;
   text-align: center;
 }
+
+.separator {
+  background-color: #252525;
+  height: 2px;
+}
