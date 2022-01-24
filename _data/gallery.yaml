@@ -16,6 +16,11 @@
       url: notebooks/wealth_of_nations/bubble_chart.ipynb
       image_url: imgs/wealth_bubble.svg
 
+    - title: Wealth Of Nations
+      description: Choropleth
+      url: notebooks/wealth_of_nations/choropleth.ipynb
+      image_url: imgs/wealth_choropleth.png
+
 - section: Data Science and Machine Learning
   items:
     - title: Datasaurus
