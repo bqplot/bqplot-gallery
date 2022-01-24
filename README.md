@@ -10,6 +10,8 @@ View the gallery at [https://bqplot.github.io/bqplot-gallery](https://bqplot.git
 
 1. Clone this repository
 2. Add your notebook to [the notebooks directory](https://github.com/bqplot/bqplot-gallery/tree/main/notebooks).
+    * If the notebook is standalone, then directly add it to the notebooks directory
+    * If the notebook has any assets(python modules, data files etc.) then create a separate folder and put the notebook and the assets in that folder
 3. Add a small preview of your visualization under [the imgs directory](https://github.com/bqplot/bqplot-gallery/tree/main/imgs).
 4. Add an entry for your Notebook in [the `gallery.yaml` file](https://github.com/bqplot/bqplot-gallery/blob/main/_data/gallery.yaml) with a nice title and a description.
 5. Create a PR to https://github.com/bqplot/bqplot-gallery
