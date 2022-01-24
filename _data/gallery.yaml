@@ -1,19 +1,39 @@
-- title: Datasaurus
-  description:
-  url: notebooks/datasaurus/datasaurus.ipynb
-  image_url: imgs/datasaurus.png
+- section: General
+  items:
+    # Fix this Notebook for dark theme
+    # - title: Mobile patent suits
+    #   description:
+    #   url: notebooks/mobile_patent_suits.ipynb
+    #   image_url: imgs/mobile_patent_suits.svg
 
-- title: Gaussian Process Regression
-  description: Gaussian Process Regression
-  url: notebooks/gaussian_process_regression.ipynb
-  image_url: imgs/gaussian_process_regression.svg
+    - title: Logs analytics
+      description:
+      url: notebooks/logs_analytics/logs_analytics.ipynb
+      image_url: imgs/logs_analytics.png
 
-- title: Gradient Descent
-  description: Gradient Descent computation
-  url: notebooks/gradient_descent.ipynb
-  image_url: imgs/gradient_descent.svg
+    - title: Wealth Of Nations
+      description: Bubble chart
+      url: notebooks/wealth_of_nations/bubble_chart.ipynb
+      image_url: imgs/wealth_bubble.svg
 
-- title: K-means clustering
-  description:
-  url: notebooks/kmeans_clustering.ipynb
-  image_url: imgs/kmeans_clustering.svg
+- section: Data Science and Machine Learning
+  items:
+    - title: Datasaurus
+      description:
+      url: notebooks/datasaurus/datasaurus.ipynb
+      image_url: imgs/datasaurus.png
+
+    - title: Gaussian Process Regression
+      description: Gaussian Process Regression
+      url: notebooks/gaussian_process_regression.ipynb
+      image_url: imgs/gaussian_process_regression.svg
+
+    - title: Gradient Descent
+      description: Gradient Descent computation
+      url: notebooks/gradient_descent.ipynb
+      image_url: imgs/gradient_descent.svg
+
+    - title: K-means clustering
+      description:
+      url: notebooks/kmeans_clustering.ipynb
+      image_url: imgs/kmeans_clustering.svg
