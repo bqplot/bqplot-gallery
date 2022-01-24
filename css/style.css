@@ -46,21 +46,18 @@ body {
   user-select: none;
   border: 2px solid #252525;
   border-radius: 0.25rem;
+  opacity: 1;
+  transition: opacity 1s ease-in-out;
 }
 
 .gallery-item:hover {
   box-shadow: 4px 4px 12px #252525;
   cursor: pointer;
-  transition: box-shadow 0.3s ease-in-out;
+  transition: box-shadow 0.2s ease-in-out;
 }
 
-.modal-content {
-  border-radius: 0px;
-  box-shadow: 0 0 20px 8px #252525;
-}
-
-.modal-backdrop.show {
-  opacity: 0.75;
+.gallery-item > .disabled {
+  opacity: 0.2;
 }
 
 #loading_text {
@@ -78,13 +75,18 @@ body {
   text-align: center;
 }
 
+.spinner-container {
+  z-index: 200;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateY(-50%) translateX(-50%);
+}
+
 .spinner {
   animation: rotation 2s infinite linear;
   transform-origin: 50% 50%;
-}
-
-.spinner-container {
-  width: 100%;
+  width: 100px;
 }
 
 @keyframes rotation {
