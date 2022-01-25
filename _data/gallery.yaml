@@ -31,7 +31,7 @@
     - title: Gaussian Process Regression
       description: Gaussian Process Regression
       url: notebooks/gaussian_process_regression.ipynb
-      image_url: imgs/gaussian_process_regression.svg
+      image_url: imgs/gaussian_process_regression.png
 
     - title: Gradient Descent
       description: Gradient Descent computation
