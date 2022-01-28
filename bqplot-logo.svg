@@ -5,37 +5,11 @@
    viewBox="0 0 170 170"
    height="170mm"
    width="170mm"
-   sodipodi:docname="bqplot-logo-dark.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="3840"
-     inkscape:window-height="2101"
-     id="namedview44"
-     showgrid="false"
-     inkscape:zoom="1.4692157"
-     inkscape:cx="319.55825"
-     inkscape:cy="361.41732"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1478"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm" />
   <defs
      id="defs2">
     <clipPath
@@ -57,17 +31,9 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12585758;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect904"
-     width="170.65623"
-     height="170.65623"
-     x="3.5527137e-15"
-     y="-0.65625137" />
   <g
      id="g1300">
     <g
@@ -76,12 +42,10 @@
          id="g1478">
         <g
            id="g1571"
-           clip-path="url(#clipPath1573)"
-           inkscape:label="clipped">
+           clip-path="url(#clipPath1573)">
           <g
              id="g1211"
              transform="translate(218.53316,-8.9560717)"
-             inkscape:label="plot-background"
              style="fill:#4b4b4b;fill-opacity:1">
             <rect
                y="146.07661"
@@ -535,24 +499,19 @@
           <g
              clip-path="none"
              id="g1193"
-             transform="translate(-43.019348,1.2822736)"
-             inkscape:label="curves">
+             transform="translate(-43.019348,1.2822736)">
             <g
                transform="translate(-12.361153,7.3251275)"
-               id="g848"
-               inkscape:label="group">
+               id="g848">
               <path
-                 inkscape:connector-curvature="0"
                  style="fill:none;stroke:#06a481;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  d="m 51.793023,66.438893 c 7.457926,18.374648 23.970456,29.031563 38.946411,26.823273 14.975956,-2.208289 26.328316,-35.444755 46.174186,-39.579215 11.27529,-2.348966 24.98141,0.488452 33.03066,10.140233"
                  id="path815-3" />
               <path
-                 inkscape:connector-curvature="0"
                  style="fill:none;stroke:#98c743;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  d="m 52.901666,51.917319 c 0,0 22.627654,-22.311203 38.642858,-20.446926 9.235066,1.075024 12.733446,14.497332 22.169146,18.001515 6.92743,2.572675 17.08592,-3.414904 26.53953,-4.356273 15.84507,-1.439117 28.94605,5.070891 35.87449,13.635548"
                  id="path815" />
               <path
-                 inkscape:connector-curvature="0"
                  style="fill:none;stroke:#ec4758;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  d="m 52.901666,71.917319 c 0,0 14.860204,-13.570748 23.977714,-13.20688 16.483344,0.657828 24.86553,28.586148 41.3082,27.254974 9.22166,-0.746571 9.17726,-4.657129 20.40657,-18.813256 6.2387,-7.864761 17.92736,-7.374869 25.1924,1.706014"
                  id="path815-6" />
@@ -562,27 +521,21 @@
         <g
            transform="translate(-55.380704,8.6074009)"
            id="g1042"
-           inkscape:label="brush"
            style="fill:#efefef;fill-opacity:1">
           <path
              d="m 187.8214,67.835196 0.69967,-0.57232 -3.54467,-4.333533 -18.65412,15.25834 -0.68334,-0.835429 18.65395,-15.258351 -3.81744,-4.667002 -18.65394,15.258345 5.54683,6.781271 18.65337,-15.257733 0.68334,0.835425 -18.6532,15.257746 1.81524,2.219272 0.69971,-0.572325 c 0.0159,0.01552 0.0315,0.02984 0.0471,0.04688 l 17.24429,-14.105159 c -0.0143,-0.01863 -0.0256,-0.03699 -0.0367,-0.05533 z"
              id="path14"
-             style="stroke-width:0.16710807;fill:#efefef;fill-opacity:1"
-             inkscape:connector-curvature="0"
-             inkscape:label="tip" />
+             style="stroke-width:0.16710807;fill:#efefef;fill-opacity:1" />
           <path
              d="m 197.80976,90.290188 c -2.91954,-3.569251 -6.5964,-6.909201 -9.0372,-8.854368 -1.56234,-1.245061 -2.46082,-1.752877 -3.46515,-2.98085 -1.00426,-1.227795 -0.30343,-3.899807 1.06877,-5.022994 l -5.3e-4,-8.5e-4 0.86363,-0.706391 c 1.03387,-0.845683 1.44797,-2.146596 1.22689,-3.373393 l -16.54099,13.529819 c 1.15868,0.459142 2.51664,0.31211 3.5497,-0.533651 l 0.86359,-0.706381 5.8e-4,6.26e-4 c 1.37304,-1.123103 4.13096,-1.280234 5.13523,-0.05247 1.00431,1.227795 1.32397,2.21003 2.23461,3.98738 1.4226,2.77799 3.96718,7.044119 6.88669,10.613386 5.78694,7.075039 12.09405,11.489859 14.08627,9.860429 1.99167,-1.62846 -1.08521,-8.684868 -6.87209,-15.760577 z m 2.31334,10.189702 c -0.67423,0.55152 -1.66876,0.45195 -2.22029,-0.22231 -0.55151,-0.674257 -0.45193,-1.66877 0.22232,-2.220307 0.67427,-0.551521 1.66878,-0.451927 2.22028,0.222329 0.55234,0.674532 0.45288,1.668026 -0.22231,2.220288 z"
              id="path10"
-             style="stroke:#ffffff;stroke-width:0.167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#efefef;fill-opacity:1"
-             inkscape:connector-curvature="0"
-             inkscape:label="handle" />
+             style="stroke:#ffffff;stroke-width:0.167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#efefef;fill-opacity:1" />
         </g>
         <g
            aria-label="bqplot"
            id="text899"
            clip-path="none"
-           style="font-size:37.1628px;line-height:1.25;font-family:Courier;-inkscape-font-specification:Courier;letter-spacing:0px;word-spacing:0px;fill:#ec4758;stroke-width:0.929069"
-           inkscape:label="bqplot-text">
+           style="font-size:37.1628px;line-height:1.25;font-family:Courier;-inkscape-font-specification:Courier;letter-spacing:0px;word-spacing:0px;fill:#ec4758;stroke-width:0.929069">
           <path
              d="m 37.821596,156.97309 c 4.645201,0 8.77014,-3.97629 8.77014,-10.92551 0,-6.16883 -2.824283,-10.25661 -8.06407,-10.25661 -2.229696,0 -4.496554,1.2635 -6.317473,2.86145 l 0.111484,-3.64184 v -8.10123 h -3.381706 v 29.58064 h 2.712797 l 0.297293,-2.08105 h 0.148647 c 1.746595,1.59795 3.864807,2.56415 5.722888,2.56415 z m -0.557424,-2.82428 c -1.337818,0 -3.158737,-0.55743 -4.942495,-2.11821 v -10.59106 c 1.932404,-1.82092 3.716161,-2.78712 5.425595,-2.78712 3.827646,0 5.314111,3.01009 5.314111,7.46948 0,5.01682 -2.452667,8.02691 -5.797211,8.02691 z"
              style="font-size:37.1616px;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK, Normal'"
